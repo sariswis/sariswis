@@ -16,10 +16,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sariswis/" target="_blank">
-    <img alt="LinkedIn" height="50" width="50" style="margin: 5px;" src="assets/linkedin.png"/>
+    <img alt="LinkedIn" height="80" width="80" src="assets/linkedin.png"/>
   </a>
 <a href="https://discord.com/users/928665060031737886" target="_blank">
-    <img alt="Discord" height="50" width="50" style="margin: 5px;" src="assets/discord.png"/>
+    <img alt="Discord" height="80" width="80" src="assets/discord.png"/>
   </a>
 </div>
 
