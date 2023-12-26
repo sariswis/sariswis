@@ -1,4 +1,8 @@
-# Hi there! **👋🏻** I'm Sara Cárdenas
+
+
+<div align="center">
+    <img alt="banner" style="margin-bottom:5px;" src="assets/banner.png"/>
+</div>
 
 ## **👩🏻‍💻** About Me
 
